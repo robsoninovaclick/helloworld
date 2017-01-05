@@ -3,6 +3,7 @@ Projeto para aprendizado
 Aprendendo na prática
 
 ## Para baixar o repositório em seu computador use
+Um diretório será criado, com o nome do projeto que você está baixando, neste caso "helloworld".
 git clone git://github.com/robsoninovaclick/helloworld.git
 
 ## Enviando os arquivos para o github
@@ -10,7 +11,7 @@ git clone git://github.com/robsoninovaclick/helloworld.git
 * É preciso fazer um git commit -m "comentário"
 * É preciso fazer um git push 
 
-Ao tentar mandar os novos arquivos para o git não foi possível pois a url era git:// e era necessário ser https://...
+Tentar fazer um push neste repositório usando esta sequencia, o git vai reclamar avisandoque não será possivel fazer o push em git://.... sendo necessário alterar para https://...
 
 
 ## Alterando a url do repositório 
